@@ -24,3 +24,6 @@ The client will bear as little memory costs as possible to use this data store, 
 1.datastore.py is the Datastore
 2.CRD_Operation.py is showing the basic Create,Read,Delete Operations
 3.datastore.json is the json data
+
+#Rest are the screenshots
+
