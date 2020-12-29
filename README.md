@@ -18,3 +18,9 @@ The size of the file storing data must never exceed 1GB.
 More than one client process cannot be allowed to use the same file as a data store at any given time
 A client process is allowed to access the data store using multiple threads, if it desires to The data store must therefore be thread-safe.
 The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
+
+# Main Files and Documents
+
+datastore.py is the Datastore
+CRD_Operation.py is showing the basic Create,Read,Delete Operations
+datastore.json is the json data
